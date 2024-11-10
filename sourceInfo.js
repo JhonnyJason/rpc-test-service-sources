@@ -1,6 +1,7 @@
 module.exports = {
     getDependencies: () => {
         return {
+            "thingy-sci-base": "^0.0.10"
             // "cached-persistentstate": "^0.0.1",
             // "key-block": "^0.0.2",
             // "memory-decay": "^0.0.3",
